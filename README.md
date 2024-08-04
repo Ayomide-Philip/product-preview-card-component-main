@@ -34,6 +34,7 @@ This project provides a great opportunity to practice fundamental web developmen
 Below is a screenshot of the finished product preview card component:
 
 ![Product Preview Card Screenshot](https://github.com/Ayomide-Philip/product-preview-card-component-main/blob/8c147f016d47a3c285b0f7a9c759dc035cb66d9c/Screenshot%202024-08-04%20233442.png)
+![Product Preview Card Screenshot 2](https://github.com/Ayomide-Philip/product-preview-card-component-main/blob/d80ab388776e1c18dc95d9af277be6a8d7ea7b22/Screenshot%202024-08-04%20233442%20(2).png)
 
 This screenshot showcases how the card component looks on different devices, including mobile and desktop screens.
 
